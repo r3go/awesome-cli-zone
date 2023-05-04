@@ -29,4 +29,4 @@ https://github.com/TheZoraiz/ascii-image-converter
 
 # hollywood
 Feeling like a hacker but lacking the skills? Let Hollywood make you look like a pro with its fancy terminal effects. \
-![screenshot]([https://external-preview.redd.it/s_Nqv1ddETwFTiJlGJBXKGEpBK2-HQz-K3IWmp2aauM.gif?width=640&crop=smart&format=png8&v=enabled&s=281d22d69dbf3707712e8427a35c4422f7306bb6](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/hollywood.gif))
+![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/hollywood.gif)
