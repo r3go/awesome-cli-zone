@@ -24,4 +24,5 @@ https://github.com/dundee/gdu
 
 # ascii-image-converter
 Converts images into ASCII art. Who needs high-resolution images anyway? \
+https://github.com/TheZoraiz/ascii-image-converter
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/ascii-image-converter.png)
