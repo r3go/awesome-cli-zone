@@ -27,7 +27,8 @@ Converts images into ASCII art. Who needs high-resolution images anyway? \
 https://github.com/TheZoraiz/ascii-image-converter
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/ascii-image-converter.png)
 
-# hollywood
-Feeling like a hacker but lacking the skills? Let Hollywood make you look like a pro with its fancy terminal effects. \
-`apt install hollywood` \
+# fake hacker terminal
+Feeling like a hacker but lacking the skills? Use it to make you look like a pro with its fancy terminal effects. \
+  - hollywood: `apt install hollywood`
+  - cmatrix: `apt install cmatrix`
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/hollywood.gif)
