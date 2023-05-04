@@ -28,7 +28,7 @@ https://github.com/TheZoraiz/ascii-image-converter
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/ascii-image-converter.png)
 
 # fake hacker terminal
-Feeling like a hacker but lacking the skills? Use it to make you look like a pro with its fancy terminal effects. \
+Feeling like a hacker but lacking the skills? Use it to make you look like a pro with its fancy terminal effects. 
   - hollywood: `apt install hollywood`
   - cmatrix: `apt install cmatrix` \
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/hollywood.gif)
