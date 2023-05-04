@@ -29,4 +29,5 @@ https://github.com/TheZoraiz/ascii-image-converter
 
 # hollywood
 Feeling like a hacker but lacking the skills? Let Hollywood make you look like a pro with its fancy terminal effects. \
+`apt install hollywood` \
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/hollywood.gif)
