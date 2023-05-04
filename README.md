@@ -21,3 +21,7 @@ https://github.com/dylanaraps/neofetch
 An efficient and fast disk usage analyzer with a clean UI. \
 https://github.com/dundee/gdu
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/gdu.png)
+
+# ascii-image-converter
+Converts images into ASCII art. Who needs high-resolution images anyway? \
+![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/ascii-image-converter.png)
