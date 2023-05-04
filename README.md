@@ -18,7 +18,7 @@ https://github.com/dylanaraps/neofetch
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/neofetch.png)
 
 # gdu
-An efficient and fast disk usage analyzer with a clean UI. \
+Like "ncdu", an efficient and fast disk usage analyzer with a clean UI. \
 https://github.com/dundee/gdu
 ![screenshot](https://raw.githubusercontent.com/r3go/awesome-cli-zone/main/assets/images/gdu.png)
 
